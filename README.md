@@ -5,9 +5,9 @@
 
 - Python
 
-- C++
+- CSS
 
-- C+
+- HTML
 
 ### What am I learning right now?
 - I’m currently learning React
