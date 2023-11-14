@@ -16,4 +16,4 @@
 - I’m looking to collaborate on games, apps, software development
 
 ### How can you reach me?
-- You can reach my via email, linkedIN
+- You can reach me by my website site in my repository
