@@ -10,7 +10,7 @@
 - HTML
 
 ### What am I learning right now?
-- I’m currently learning React
+- I’m currently learning React, Typescript
 
 ### What am I looking for?
 - I’m looking to collaborate on games, apps, software development
